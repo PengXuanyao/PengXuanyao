@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 
 I'm now a senior student at xjtu, majoring Automation. I'm badly interested in hardware toys, like microcontroller and FPGA. And I'm struggling with the Final Year Project now, wish me good luck.
 
+## Currently learning 💎
+
+- Chisel
+- Processor Design and Computer Architecture
+- Linux
+
 ## Interests ✨
 
 - Hardware and Logical Design
@@ -33,6 +39,17 @@ I'm now a senior student at xjtu, majoring Automation. I'm badly interested in h
 - Guitar 
   - Play just for fun, and make noise unconsciously.
 - Running
-  - Not the 
+  - Run when I have a good day, often at a park.
 - Maker
+  - Although I begin DIY as a kid, I'm still a fake maker.
+  - But I want to be a real one.  
 - Reading
+  - Book is the best hypnotic.
+  - I like reading before sleep.
+
+## Have done 🎈
+
+- Tiwce participation in National Undergraduate Electronic Design Contest(NUEDC).
+  - One for DSP embeded system design(TI Cup 🏅) and another for AI application design(Intel Cup 🥈). 
+- Once participation in Lanqiao Cup Contest。
+  - For embeded system design 🥉. 
