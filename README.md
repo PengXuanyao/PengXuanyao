@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Nice to meet you.
+
 <!--
 **PengXuanyao/PengXuanyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me
+## About me 😉
 
-I'm now a senior student at xjtu, majoring Automation. And I'm struggling with the Final Year Project.
+I'm now a senior student at xjtu, majoring Automation. I'm badly interested in hardware toys, like microcontroller and FPGA. And I'm struggling with the Final Year Project now, wish me good luck.
+
+## Interests ✨
+
+- Hardware and Logical Design
+- Processor Design and Computer Architecture
+- Microcontroller Application
+- Embedded System Design 
+
+## Hobby 😍
+
+- Guitar 
+  - Play just for fun, and make noise unconsciously.
+- Running
+  - Not the 
+- Maker
+- Reading
