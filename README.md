@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About me 😉
 
-I'm now a senior student at xjtu, majoring Automation. I'm badly interested in hardware toys, like microcontroller and FPGA. And I'm struggling with the Final Year Project now, wish me good luck.
+I'm a Graduate student at University of Chinese Academy of Sciences, majoring in cs.
 
 ## Currently learning 💎
 
@@ -52,4 +52,5 @@ I'm now a senior student at xjtu, majoring Automation. I'm badly interested in h
 - Tiwce participation in National Undergraduate Electronic Design Contest(NUEDC).
   - One for DSP embeded system design(TI Cup 🏅) and another for AI application design(Intel Cup 🥈). 
 - Once participation in Lanqiao Cup Contest。
-  - For embeded system design 🥉. 
+  - For embeded system design 🥉.
+- National Scholarship
