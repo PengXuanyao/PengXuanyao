@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Nice to meet you.
-
 <!--
 **PengXuanyao/PengXuanyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,12 +19,6 @@ Here are some ideas to get you started:
 
 I'm a Graduate student at University of Chinese Academy of Sciences, majoring in cs.
 
-## Currently learning 💎
-
-- Chisel
-- Processor Design and Computer Architecture
-- Linux
-
 ## Interests ✨
 
 - Hardware and Logical Design
@@ -34,7 +26,7 @@ I'm a Graduate student at University of Chinese Academy of Sciences, majoring in
 - Microcontroller Application
 - Embedded System Design 
 
-## Hobby 😍
+## Hobby 🍔
 
 - Guitar 
   - Play just for fun, and make noise unconsciously.
