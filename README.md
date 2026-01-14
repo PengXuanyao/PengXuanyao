@@ -15,34 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me 😉
+HELLO WORLD ;)
 
-I'm a Graduate student at University of Chinese Academy of Sciences, majoring in cs.
+<!--
+## About Me 😉
+I am a Computer Science graduate student at the University of Chinese Academy of Sciences.
 
 ## Interests ✨
+Hardware and Logical Design, Processor Design and Computer Architecture, Microcontroller Applications, and Embedded System Design.
 
-- Hardware and Logical Design
-- Processor Design and Computer Architecture
-- Microcontroller Application
-- Embedded System Design 
-
-## Hobby 🍔
-
-- Guitar 
-  - Play just for fun, and make noise unconsciously.
-- Running
-  - Run when I have a good day, often at a park.
-- Maker
-  - Although I begin DIY as a kid, I'm still a fake maker.
-  - But I want to be a real one.  
-- Reading
-  - Book is the best hypnotic.
-  - I like reading before sleep.
-
-## Have done 🎈
-
-- Tiwce participation in National Undergraduate Electronic Design Contest(NUEDC).
-  - One for DSP embeded system design(TI Cup 🏅) and another for AI application design(Intel Cup 🥈). 
-- Once participation in Lanqiao Cup Contest。
-  - For embeded system design 🥉.
-- National Scholarship
+## Hobbies 🍔
+* Guitar: Playing for fun, often unconsciously.
+* Running in the park on good days.
+* Maker: A lifelong DIY enthusiast aspiring to become a real maker.
+* Reading: My favorite pre-sleep ritual.
+-->
